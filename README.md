@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jake, but I commonly go by the name Deftioon online.
+I commonly go by the name Deftioon online.
 - British-Born Chinese
 - High School 2nd year, 16 yrs old, taking the IBDP course.
 - Interested in Mathematics and Computer Science.
