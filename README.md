@@ -1,30 +1,15 @@
-### Hi there 👋
+<h3 align="center">
+  Hi! Welcome to my profile!
+</h3>
 
-I commonly go by the name Deftioon online.
-- British-Born Chinese
-- High School 2nd year, 16 yrs old, taking the IBDP course.
-- Interested in Mathematics and Computer Science.
-- Invested in anything matrices. Machine Learning, Linear Algebra, Graph Theory, and Quantum Computing.
+---
 
-I am currently learning [Mojo](https://github.com/modularml/mojo) because I think its fun and has potential, and Rust for more general-purpose things.
+### My Languages
 
-I'm currently working on [Quojo](https://github.com/Deftioon/Quojo), a Qiskit-like framework for simulating and working with Quantum Computing concepts, as a way to enhance my learning in the field of Quantum Computing.
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=deftioon)](https://github.com/anuraghazra/github-readme-stats) <a href="https://www.java.com/"><img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="50">
+ </a><a href="https://www.python.org/">
+<img alt="python" src="https://www.actuia.com/wp-content/uploads/2022/01/logopython.png" width="100">
+ </a><a href = "https://www.modular.com/max/mojo"><img alt = "mojo" src = "https://assets-global.website-files.com/63f9f100025c058594957cca/65df9332b319cb9989698874_mojo.jpg" width = 100></a>
 
-I'm also wrapping my head around [this ML project](https://github.com/Deftioon/Deftioon-Mojo) I'm working on to be a fully-functioning neural networking library constructed from scratch.
+---
 
-You can reach me through Discord I guess... `deftioon` is the username.
-
-<!--
-**Deftioon/Deftioon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
