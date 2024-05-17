@@ -6,10 +6,11 @@
 
 ### My Languages
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=deftioon)](https://github.com/anuraghazra/github-readme-stats) <a href="https://www.java.com/"><img alt="java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="50">
- </a><a href="https://www.python.org/">
-<img alt="python" src="https://www.actuia.com/wp-content/uploads/2022/01/logopython.png" width="100">
- </a><a href = "https://www.modular.com/max/mojo"><img alt = "mojo" src = "https://assets-global.website-files.com/63f9f100025c058594957cca/65df9332b319cb9989698874_mojo.jpg" width = 100></a>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=deftioon)](https://github.com/anuraghazra/github-readme-stats) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
 
 ---
+
+### Tools
 
