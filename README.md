@@ -1,10 +1,11 @@
-<h3 align="center">
+<h1 align="center">
   Hi! Welcome to my profile!
-</h3>
+</h1>
+
 
 ---
 
-<h3 align="center"> My Languages </h3>
+<h2 align="center"> My Languages </h2>
 
 <p align = "center">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -20,7 +21,7 @@
 
 ---
 
-<h3 align="center"> Tools </h3>
+<h2 align="center"> Tools </h2>
 
 <p align = "center">
     <img alt = "Numpy" src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
