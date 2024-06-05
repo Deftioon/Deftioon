@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
 
-Hi! I'm a High School Student looking to study Computer Science. I'm quite interested in Linear Algebra, looking into Machine Learning and Quantum Computing at the moment. I'm working on my projects [Coeus]([Deftioon/Coeus: Simple Deep Learning Project on Python (github.com)](https://github.com/Deftioon/Coeus)) and [PyQ]([Deftioon/PyQ: Quantum Computer Simulation and Benchmarking on Python and Pytorch (github.com)](https://github.com/Deftioon/PyQ)), which are projects aimed to apply my knowledge into programming.
+Hi! I'm a High School Student looking to study Computer Science. I'm quite interested in Linear Algebra, looking into Machine Learning and Quantum Computing at the moment. I'm working on my projects [Coeus](https://github.com/Deftioon/Coeus) and [PyQ](https://github.com/Deftioon/PyQ), which are projects aimed to apply my knowledge into programming.
 
 ---
 
