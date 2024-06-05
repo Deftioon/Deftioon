@@ -3,25 +3,28 @@
 </h1>
 
 
+<h2> About Me </h2>
+
+Hi! I'm a High School Student looking to study Computer Science. I'm quite interested in Linear Algebra, looking into Machine Learning and Quantum Computing at the moment. I'm working on my projects [Coeus]([Deftioon/Coeus: Simple Deep Learning Project on Python (github.com)](https://github.com/Deftioon/Coeus)) and [PyQ]([Deftioon/PyQ: Quantum Computer Simulation and Benchmarking on Python and Pytorch (github.com)](https://github.com/Deftioon/PyQ)), which are projects aimed to apply my knowledge into programming.
+
 ---
 
-<h2 align="center"> My Languages </h2>
+<h2> My Languages </h2>
 
 <p align = "center">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img alt = "Java" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt = "Typescript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt = "Lua" src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-    <br><br>
     <img alt = "HTML" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img alt = "Markdown" src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img alt = "LaTeX" src = "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
+
 ---
 
-<h2 align="center"> Tools </h2>
+<h2> Tools </h2>
 
 <p align = "center">
     <img alt = "Numpy" src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -40,5 +43,11 @@
     <br><br>
     <img alt = "Django" src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </p>
-<div class="gh-card gh-medium" data-repo="aranscope/github-cards"></div>
+---
+
+## Projects
+
+| [Coeus]([Deftioon/Coeus: Simple Deep Learning Project on Python (github.com)](https://github.com/Deftioon/Coeus)) | [PyQ]([Deftioon/PyQ: Quantum Computer Simulation and Benchmarking on Python and Pytorch (github.com)](https://github.com/Deftioon/PyQ)) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| A Machine Learning library for tasks related to deep learning and probabilistic methods. Similar to Pytorch, it will help learn methods for abstraction and being from scratch, it will help learn the maths behind it. | A Quantum Computing library to simulate quantum circuits and networks, providing a flexible platform to tinker with quantum gates, wires, circuits, and networks, while also being able to benchmark algorithms. |
 
