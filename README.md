@@ -47,7 +47,7 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
 
 ## Projects
 
-| [Coeus]([Deftioon/Coeus: Simple Deep Learning Project on Python (github.com)](https://github.com/Deftioon/Coeus)) | [PyQ]([Deftioon/PyQ: Quantum Computer Simulation and Benchmarking on Python and Pytorch (github.com)](https://github.com/Deftioon/PyQ)) |
+| [Coeus](https://github.com/Deftioon/Coeus) | [PyQ](https://github.com/Deftioon/PyQ) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | A Machine Learning library for tasks related to deep learning and probabilistic methods. Similar to Pytorch, it will help learn methods for abstraction and being from scratch, it will help learn the maths behind it. | A Quantum Computing library to simulate quantum circuits and networks, providing a flexible platform to tinker with quantum gates, wires, circuits, and networks, while also being able to benchmark algorithms. |
 
