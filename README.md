@@ -13,6 +13,8 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
 
 <p align = "center">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt = "Rust" src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img alt = "Mojo" src = "https://img.shields.io/badge/Mojo-EA8220?style=for-the-badge&logo=fireship&logoColor=red">
     <img alt = "Java" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt = "Typescript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
