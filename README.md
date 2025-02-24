@@ -19,6 +19,7 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
     <img alt = "Javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt = "Typescript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt = "HTML" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt = "CSS" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img alt = "Markdown" src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img alt = "LaTeX" src = "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </p>
@@ -44,6 +45,9 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
     <img alt = "SQLite" src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
     <br><br>
     <img alt = "Django" src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+    <img alt = "React" src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img alt = "Vite" src = "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+    <img alt = "Actix" src = "https://img.shields.io/badge/Actix-000?logo=actix&logoColor=fff&style=for-the-badge">
 </p>
 ---
 
