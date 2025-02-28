@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! Welcome to my profile!
+  Hi!
 </h1>
 
 
@@ -49,6 +49,7 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
     <img alt = "Vite" src = "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
     <img alt = "Actix" src = "https://img.shields.io/badge/Actix-000?logo=actix&logoColor=fff&style=for-the-badge">
 </p>
+
 ---
 
 ## Projects
@@ -56,4 +57,8 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
 | [qcircpy](https://github.com/Deftioon/qcircpy) | [Quojo](https://github.com/Deftioon/Quojo) | [Coeus](https://github.com/Deftioon/Coeus)
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | 
 | A Quantum Computing library to simulate quantum circuits and networks, providing a flexible platform to tinker with quantum gates, wires, circuits, and networks, while also being able to benchmark algorithms. | A library in Mojo and Rust that simulates quantum circuits through ZX Calculus and parametric rewriting. | A Machine Learning library for tasks related to deep learning and probabilistic methods. Similar to Pytorch, it will help learn methods for abstraction and being from scratch, it will help learn the maths behind it. | 
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
