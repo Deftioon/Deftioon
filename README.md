@@ -60,5 +60,7 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<h1 align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</h1>
 
