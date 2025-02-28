@@ -60,4 +60,8 @@ Hi! I'm a High School Student looking to study Computer Science. I'm quite inter
 | A Quantum Computing library to simulate quantum circuits and networks, providing a flexible platform to tinker with quantum gates, wires, circuits, and networks, while also being able to benchmark algorithms. | A library in Mojo and Rust that simulates quantum circuits through ZX Calculus and parametric rewriting. | A Machine Learning library for tasks related to deep learning and probabilistic methods. Similar to Pytorch, it will help learn methods for abstraction and being from scratch, it will help learn the maths behind it. | 
 
 ---
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftioon&layout=compact)
+<center>
+  <embed>
+    https://github-readme-stats.vercel.app/api/top-langs/?username=Deftioon&layout=compact
+</embed>
+</center>
